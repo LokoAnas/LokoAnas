@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate AI Engineer and a Blockchain enthusiast focusing on ML/DP model development.
+I'm a passionate AI Engineer and a Blockchain enthusiast focusing on ML/DL model development.
 
 - 🧠 I’m currently studying a Master's in AI at [Brandenburg University of Technology Cottbus-Senftenberg](https://www.b-tu.de/en/).
 - 💬 I’m currently learning more about computer vision libraries.

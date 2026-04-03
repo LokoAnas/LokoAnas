@@ -121,19 +121,41 @@ Binary classifier trained on health and biometric data using SVMs, with full pre
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 Current Focus
+
+> What's on the workbench right now
+
+- 🏗 **Atrya.io** — Architecting stablecoin wallet infra and AI-agent payment primitives for the European market
+- 🤖 Exploring **agentic AI systems** — autonomous pipelines that act, not just respond
+- 🎓 **M.Sc. AI thesis** — research at the intersection of deep learning and decentralized systems
+- 📖 Going deeper on **trustless computation** and what programmable money enables at scale
+
+---
+
+## ✍️ Writing
+
+I write about AI, Web3, and building at the frontier — occasionally long-form, always honest.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LokoAnas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokoAnas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
+[![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anasalnouri)
 
 </div>
 
+---
+
+## 🌌 Perspective
+
 <div align="center">
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LokoAnas&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=1&pause=999999&color=a78bfa&center=true&vCenter=true&width=700&lines=%22I'd+rather+be+early+and+wrong+than+late+and+safe.%22)
 
+<br/>
+
+*— the only way to build at the frontier*
+
+<br/>
 </div>
 
 ---

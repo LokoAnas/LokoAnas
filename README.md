@@ -1,72 +1,153 @@
-# Hey there, it's Anas Alnouri 👋
+<div align="center">
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anas%20Alnouri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Blockchain%20Architect%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-I'm a passionate AI Engineer and a Blockchain enthusiast focusing on ML/DL model development.
+</div>
 
-- 🧠 I’m currently studying a Master's in AI at [Brandenburg University of Technology Cottbus-Senftenberg](https://www.b-tu.de/en/).
-- 💬 I’m currently learning more about computer vision libraries.
-- 👯 I’m looking to collaborate on AI-related working student roles.
-- ⚡ Fun fact: My productivity becomes higher under pressure!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anas-alnouri-223b74230)
+<br/>
 
-## Skills
+<div align="center">
 
-- **Languages:** 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/-Solidity-007396?style=flat&logo=Solidity&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-FA7343?style=flat&logo=TypeScript&logoColor=white)
-  ![GO](https://img.shields.io/badge/-GO-0175C2?style=flat&logo=GO&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-alnouri-223b74230)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LokoAnas)
+[![Atrya](https://img.shields.io/badge/Atrya.io-6d28d9?style=for-the-badge&logo=ethereum&logoColor=white)](https://atrya.io)
 
-- **Frameworks and Libraries:** 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-512BD4?style=flat&logo=PyTorch&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/-NestJS-6DB33F?style=flat&logo=NestJS&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-02569B?style=flat&logo=FastAPI&logoColor=white)
+</div>
 
-- **Tools and Platforms:** 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-  ![Hedera](https://img.shields.io/badge/-Hedera-6DB33F?style=flat&logo=Hedera&logoColor=white)
-  ![HyperLedger](https://img.shields.io/badge/-HyperLedger-FF6F00?style=flat&logo=HyperLedger&logoColor=white)
+---
 
+## ⚡ What I Build
 
-## Featured Projects
+AI Engineer and Blockchain Architect with a focus on production-grade ML systems, decentralized infrastructure, and agentic AI pipelines. I work at the intersection of applied machine learning and Web3 — engineering systems that are both intelligent and trustless.
 
-### [Teeth Cavity Detection](https://github.com/LokoAnas/teeth-cavity-detection)
-A deep learning-based image classification project for detecting dental caries from direct photographed images using VGG16 and other models.
+Currently pursuing an **M.Sc. in Artificial Intelligence** at [Brandenburg University of Technology Cottbus-Senftenberg](https://www.b-tu.de/en/), with research interests spanning deep learning, NLP, and decentralized computation.
 
-### [Functional & Non-Functional Requirements Generation](https://github.com/LokoAnas/functional-nonfunctional-requirements-generation)
-Fine-tune T5 to automatically generate functional and non-functional software requirements from project scope descriptions using NLP and Transformers.
+---
 
-### [Requirement Risk Assessment](https://github.com/LokoAnas/requirement-risk-assessment)
-A machine learning model that leverages ensemble models and hyperparameter tuning to improve risk assessment predictions. Risk assessment basically involves figuring out how critical a requirement is to consider by project owners and prioritizing it.
+## 🏢 Currently Building
 
-### [Decentralized Startup Ecosystem](https://github.com/LokoAnas/decentralized-startup-ecosystem)
-A decentralized platform connecting startups with investors using smart contracts—featuring startup registration, secure funding, and NDA protection on the Hedera Network.
+<table>
+<tr>
+<td>
 
-### [Smoking Habit Predictor](https://github.com/LokoAnas/smoking-habit-predictor)
-A machine learning classifier that predicts smoking status using health and dental data. This project demonstrates supervised learning with data preprocessing, feature encoding, and Support Vector Machines (SVM) for classification.
+### [Atrya.io](https://atrya.io) — *Core Engineer*
+Building next-generation **stablecoin wallet infrastructure** and **AI-agent payment rails** for the European market. Focused on programmable money, autonomous agent economies, and compliant DeFi primitives at scale.
 
+</td>
+</tr>
+</table>
 
-## My GitHub Stats
+---
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LokoAnas&show_icons=true&theme=radical)
+## 🛠 Technical Stack
 
+**Machine Learning & AI**
 
-## Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokoAnas&layout=compact&theme=radical)
+**Blockchain & Web3**
 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hedera](https://img.shields.io/badge/Hedera-222222?style=flat-square&logo=hedera&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
 
+**Backend & Infrastructure**
 
-## Get in Touch
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/anas-alnouri-223b74230)
-- [GitHub](https://github.com/LokoAnas)
+---
 
-You are very welcome to visit my profile again!
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦷 [Teeth Cavity Detection](https://github.com/LokoAnas/teeth-cavity-detection)
+Deep learning image classification for dental caries detection from clinical photographs. Benchmarked VGG16 against custom CNN architectures with attention to real-world deployment constraints.
+
+`Deep Learning` `Computer Vision` `VGG16` `Medical Imaging`
+
+</td>
+<td width="50%">
+
+### 📋 [Requirements Generation (NLP)](https://github.com/LokoAnas/functional-nonfunctional-requirements-generation)
+Fine-tuned T5 for automatic generation of functional and non-functional software requirements from raw project scope descriptions. Reduces spec-writing overhead in early-stage engineering.
+
+`NLP` `T5` `Transformers` `Fine-tuning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [Requirement Risk Assessment](https://github.com/LokoAnas/requirement-risk-assessment)
+Ensemble ML model with hyperparameter optimization for predicting requirement criticality — enabling data-driven prioritization for project leads and stakeholders.
+
+`Ensemble Learning` `Scikit-learn` `Feature Engineering`
+
+</td>
+<td width="50%">
+
+### 🌐 [Decentralized Startup Ecosystem](https://github.com/LokoAnas/decentralized-startup-ecosystem)
+Smart contract platform connecting startups with investors on the Hedera Network — with NDA enforcement, milestone-based funding, and trustless governance baked in.
+
+`Solidity` `Hedera` `Smart Contracts` `DeFi`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚬 [Smoking Habit Predictor](https://github.com/LokoAnas/smoking-habit-predictor)
+Binary classifier trained on health and biometric data using SVMs, with full preprocessing and feature encoding pipelines for production readiness.
+
+`SVM` `Classification` `Health Data` `Sklearn`
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LokoAnas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokoAnas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LokoAnas&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborations on high-impact AI systems, Web3 infrastructure, and research at the frontier of both fields.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-alnouri-223b74230)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+</div>

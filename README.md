@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anas%20Alnouri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Blockchain%20Architect%20%E2%80%A2%20Systems%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anas%20Alnouri&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Blockchain%20Architect%20%E2%80%A2%20FinTech%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -16,12 +16,6 @@
 
 ---
 
-## ⚡ What I Build
-
-AI Engineer and Blockchain Architect with a focus on production-grade ML systems, decentralized infrastructure, and agentic AI pipelines. I work at the intersection of applied machine learning and Web3 — engineering systems that are both intelligent and trustless.
-
-Currently pursuing an **M.Sc. in Artificial Intelligence** at [Brandenburg University of Technology Cottbus-Senftenberg](https://www.b-tu.de/en/), with research interests spanning deep learning, NLP, and decentralized computation.
-
 ---
 
 ## 🏢 Currently Building
@@ -31,7 +25,7 @@ Currently pursuing an **M.Sc. in Artificial Intelligence** at [Brandenburg Unive
 <td>
 
 ### [Atrya.io](https://atrya.io) — *Core Engineer*
-Building next-generation **stablecoin wallet infrastructure** and **AI-agent payment rails** for the European market. Focused on programmable money, autonomous agent economies, and compliant DeFi primitives at scale.
+Building next-generation **stablecoin wallet infrastructure** and **AI-agent payment rails** for the European **FinTech** market. Focused on programmable money, autonomous agent economies, and compliant DeFi primitives at scale.
 
 </td>
 </tr>
